@@ -3,4 +3,4 @@ Create worksheet, dashboards, stories from New York City bike-sharing data visua
 
 
 
-[link to dashboard](https://public.tableau.com/views/citibiketripdata-challengelast/NYC-BikeshareStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[link to dashboard](https://public.tableau.com/shared/WHN2SYZ4Y?:display_count=n&:origin=viz_share_link)
