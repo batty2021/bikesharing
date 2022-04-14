@@ -39,7 +39,13 @@ Create worksheet, dashboards, stories from New York City bike-sharing data visua
  - Inventory Bikes will need to be available during peak hours which are generally 5am-9am and 4pm-7pm. This is due to most of
   the population in the U.S having a traditional work schedule.
 
+# Pro 
+What I like the most is the ability to really dig deep into data to get better insight.
+There's lots of features to take advantage of, and also like community help is always out there if i stalk .
 
+# General con's for Tableau to be fixed from my understanding;
+Large files takes a while to load and sometimes it will crash which is inconvenient.
+Since there is no auto-save function, you can lose your work if it crashes
 
 
 
