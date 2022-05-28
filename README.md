@@ -41,11 +41,11 @@ Create worksheet, dashboards, stories from New York City bike-sharing data visua
 
 # Pro 
 What I like the most is the ability to really dig deep into data to get better insight.
-There's lots of features to take advantage of, and also like community help is always out there if i stalk .
+There's lots of features to take advantage of, and also like community help is always out there if we stalk .
 
-# General con's for Tableau to be fixed from my understanding;
-Large files takes a while to load and sometimes it will crash which is inconvenient.
-Since there is no auto-save function, you can lose your work if it crashes
+# General con's for Tableau to be fixed from my experience:
+Large files tooks a while to load or Elapse time and sometimes it will crash which is inconvenient.
+Since there is no auto-save function, we could lose our work.
 
 
 
