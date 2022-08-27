@@ -4,9 +4,7 @@ Create worksheets, dashboards, and stories from New York City bike-sharing data 
 # Overview of the analysis
 
 # Purpose:
-   To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis . For this analysis,
-   I used Pandas to change the trip durationn" column from an integer to DateTime datatype. Then, using the converted datatype, 
-   I created a set of visualizations to:
+   To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis . For this analysis by Using Python and Pandas functions, i converted the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). And then the "tripduration" column would export the DataFrame as a CSV file to use for the trip analysis and created a set of visualizations inorder to:
    - Show the length of time that bikes are checked out for all riders and genders
    -  Show the number of bike trips for all riders and genders for each hour of each day of the week
    -  Show the number of bike trips for each type of user and gender for each day of the week.
